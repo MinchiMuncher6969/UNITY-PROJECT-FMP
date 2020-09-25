@@ -13616,7 +13616,7 @@ MonoBehaviour:
   zoomStartTime: 0
   hideSurfaceHandles: 0
   dirtyBool: 0
-  dirtyOnSceneBool: 1
+  dirtyOnSceneBool: 0
   forceRoadNetworkSelect: 0
   OQQQCQOOCO: 1
   OCQDCOCDODScript: {fileID: 0}
